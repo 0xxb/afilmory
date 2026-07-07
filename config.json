@@ -1,0 +1,42 @@
+{
+  "name": "熊孝兵的摄影日志",
+  "title": "熊孝兵的摄影日志",
+  "description": "用镜头记录生活中的光影与温度，留住那些值得回味的瞬间。",
+  "url": "https://gallery.xxb.im/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "熊孝兵",
+    "url": "https://xxb.im/",
+    "avatar": "https://gravatar.loli.net/avatar/7a585313ed855e8d652cbb3154a6056e?s=300&d=mm&r=g"
+  },
+  "social": {
+    "github": "",
+    "twitter": ""
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator",
+  "beian": {
+    "icp": {
+      "enabled": false,
+      "number": "XICP备xxxxxxxx号",
+      "link": "https://beian.miit.gov.cn/"
+    },
+    "police": {
+      "enabled": false,
+      "number": "X公网安备xxxxxxxxxxxxxx号",
+      "code": "xxxxxxxxxxxxxx",
+      "icon": "https://example.com/beian.png"
+    }
+  }
+}
